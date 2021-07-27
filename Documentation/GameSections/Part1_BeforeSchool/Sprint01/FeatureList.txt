@@ -1,0 +1,26 @@
+characters need to move around the screen. #### First ####
+	-player in eight directions from button controls
+	-Player in eight directions from the game (not player driven)
+	-NPC move around in eight directions following a walking cycle
+	-NPC move following the player around.
+	-NPC and player needs to move in a sequenc during dialogue 
+Scenes and data storage  #### Second ####
+	- scenes need to encasulate small area
+	- every scene has a time stamp that shows what part of the game the scene is in
+	- All dialogue quest check point should maintain state through the entire save file
+	- all interactables that can change (like treasure chests) must maintain state.
+	- all character stats and data must be maintain between scenes.
+	- All scenes and interactables must be build with consideration for saving state 
+Dialogue Text boxes #### Third ####
+	-Text boxes need to be placed around the screen (not just the bottom)
+	-Text boxes need a shaking mechanism.
+	-multiple text boxes or single text boxes should appear on the screen at once.
+	-text should flow like a typewriter
+	-hold off on portrait art to save time
+Camera #### Fourth ####
+	- the camera needs to follow the player
+	- the camera needs various shaking mechanism
+	- the camera needs to fade in and out of black
+Art #### Last ####
+	- use minimal art like shapes of solid color until all of the above elements are complete.
+	- Start considering sound effects

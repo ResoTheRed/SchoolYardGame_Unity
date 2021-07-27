@@ -1,0 +1,102 @@
+Tasks to complete the Prototype
+
+Week April 11th-17th: #Planning and Initial Art# (kids weekend)
+    #D  1. Draw up initial plans
+        - All initial characters, setting, outline game mechanics
+    #D  2. Develope main plot points TOP 
+            - first and second refinements of plot
+    #D  3. Create 1 Character Portrait - all emotions
+    #D  4. Outline Card game.
+        - dream up possible game rules and card samples 
+        - maybe make simple physical prototype of card game 
+    #D  5. Decide on what's included in the Prototype 
+        - characters 
+        - how to test everything 
+
+Week April 18th-24th: #Planning and Initial Art#
+    #D    1. Develope detailed game mechanics layout (what needs to happen)
+        - see tasks for mechanics
+    #D    2. Create 1 character's Sprite Sheet
+    #D    3. Create 1 area's Tile Map (doesn't have to be complete)
+    #D    4. Start on furniture Sprite Sheet
+    #D    5. draw sample UI layouts on paper for all sections
+
+Week April 25th - May 1st: #Initial Art and Setup# (Kids Weekend)
+    #D  1. Create textbox UI (rough if need be)
+    #D  2. Create 2nd Character Portraits
+    #D  3. Create 2nd Characters Sprite Sheet
+    #D  4. Create Godot C# project
+        - create tile map, character animation walk cycle, collisions
+    #D  5. butcher Module System to cater directly to this game 
+        - remove text adventure and tests
+
+Week May 2nd-8th: #Initial Art, Dialogue, and Character Creation#
+    #D  1. Create 3rd Character Portrait (single is fine here) 
+    2. Create 3rd sprite sheet
+    3. Create Character template with stats 
+        - include numeric and boolean character attributes
+    #D  4. Create Character leaf children (Done through the Cast class) 
+    5. Get all Characters Talking in group chat
+        - force kati to work
+    
+Week May 9th-15th: (Mother's Day, 9th):
+    1. Fine tune dialogue conversations between any number of characters (Kids)
+    2. Create Combat UI (ff7 style) (simple)
+        - menu options and layout
+    3. Create battle screens (simple)
+    4. Create character animations for battle 
+
+Week May 16th-22nd: (Railyn's Birthday May 22nd) 
+    1. Code Battle Sequence
+        - include leveling mechanics
+        - dialogue battles 
+    2. Create Inventory Art Elements
+        - menus, Item Icons (simple)
+
+Week May 23rd-29th:
+    1. Code Inventory logic
+        - Items, Magic, Skills, Stats, Social Records, Cards, System
+    2. Enable item drops from battles
+
+Week May 30th - June 5th: (kids)
+    1. Create Card Background Art (simple)
+    2. Create Card UI 
+    3. Create Card Template
+    4. Create Card Portrait Art (only 1 nice for proof of concept)
+        - enough to play a game against someone  
+
+Week June 6th-12th: (Likely be moving this week)
+    1. Code card game
+    2. Create additional card game art as needed (simple)
+
+Week June 13th-19th: (kids)
+    1. Create 2 stand-in Sprites
+    2. Create 1 stand in portrait card for each 
+    3. Create Dialogue Transitions between game characters
+    4. Create art for dialogue cut-scene type
+
+Week June 20th-26th: (Starting CGI)
+    1. Code cut-scene transition
+    2. Create dialogue for Prototype gameplay
+
+Week June 27th - July 3rd: (Kati's birthday July 2nd) (kids)
+    1. Put all elements together to finish Prototype
+    2. Save Game Mechanic
+    3. Playtest and Debug
+
+Week July 4th - 10th: 
+    1. Playtest and Debug
+    2. Release for playtesting
+
+Week July 11th - 17th: (Kids) Prototype Completion
+    1. Playtest and Debug
+    2. Feature Analysis
+        - Scrutinize the gameplay
+            - add core game loop elements to make it fun
+        - Scrutinize the ease of play
+            - nothing is too difficult to connect
+    3. Draw outline for MVP
+
+Week July 18th - 24th:
+
+Week July 25th - 31st:

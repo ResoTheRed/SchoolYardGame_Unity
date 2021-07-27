@@ -1,0 +1,86 @@
+
+Major Elements
+
+1. Concept Development
+	a. Story Development
+		i.   Plot - rise, climax, and fall
+		ii.  Setting 
+		iii. Characters
+		iv.  Interactions
+	b. Art Concepts
+		i.   Characters - Portraits and Sprites
+		ii.  Game World - Tiles and furniture like items
+		iii. UI - Menus, Text boxes, buttons, transition screens
+		iv.	 Cards
+		v.   Cards UI
+	c. Game Mechanics Mapping
+		i.   Game character motion and collision aspects (easiest)
+		ii.  Module System for dialogue delivery
+			- remove question and game weights
+		iii. inventory System
+		iv.	 Word combat System
+		v.	 Card combat System
+		vi.  Dialouge Transition from scene to scene
+		vii. Special scenes with characters (cut scenes)
+	d. Game Play Balancing Development
+		i.   Possible dialouge options during a section of the game reflects only possible stats awarded
+			- if all stats are low than only write neutral dialogue
+			- will have to write all possible dialogue values pretty soon
+		ii.	 Stats and Combat
+		iii. Stats and unlocking game elements
+		iv.  Stat gaining and leveling
+		v.   Card stats
+		vi.  Card attacks
+		vii. Aquiring Card
+2. Prototype
+	a. Minimal Characters
+		i.   3 to 5 characters
+	b. Minimal Art	
+		i.   Finished example of each of the art concepts and filler art for the rest
+		ii.  Tile set for one location
+	c. All Game Mechanics
+		i.   Base game Mechanics only.  No features
+	d. Base Audio design
+		i. sound effects
+3. Minimal Vialble Product
+	a. Full Story Development
+		i.   Only main story line
+		ii.  No side quests
+	b. All Story locations developed
+		i.   tiles and furniture
+		ii.  all levels for main plot
+		iii. All transitions working
+	c. 20 to 30 Characters minimum.
+		i.   All Art
+		ii.  All Dialogue
+		iii. All Cut Scenes
+	d. Working Card Game
+		i.   40 to 60 cards
+	e. All Game Mechanics complete for all elements
+	f. All Game Play Balanced
+	g. Full Audio	
+		i.   Sound Effects
+		ii.  Music - 8 to 16 bit style
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		

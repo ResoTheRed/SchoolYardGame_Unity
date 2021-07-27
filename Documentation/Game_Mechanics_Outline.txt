@@ -1,0 +1,353 @@
+===========================================
+Top: Game Mechanics Board: List of Features
+===========================================
+
+1. Interacting in game world 32x32 or 16x16 world
+    - characters move up, down, left, right
+        - add diagonals as a bonus (more dependent on art side)
+    - Button Mappings
+        - Dpad and joystick --> movement
+        - X or A for select
+        - (square) or X for opening menus with people/things (shops)
+        - O or B for undo/exit
+        - (triangle) or Y for open menu
+        - L1 and R1 to switch between characters
+    - Orthongnal view
+    - Divide areas in to scenes 
+        - bathroom and hall are two separate scenes
+    - Things to interact with
+        - talk to people (with X)
+        - Open shoping menus (with Square)
+            - trigger cards
+            - trigger DnD (maybe)
+                - likely be on an item (like a game table)
+            - trigger shoping menus
+        - skateboard
+        - game systems
+        - portal openings
+
+2. Combat
+    - combat layout
+        - scene change when combat starts
+        - old school FF combat style
+            - characters don't need to form a perfect line
+            - Center of the screen
+    - characters and enemies 32x32 area
+        - animations for 3 main battle characters and all enemies
+            - keep it simple, stupid
+        - Physical attack animation
+        - Word attack animation
+        - item using animations
+    - Combat UI
+        - FF7 menu systems (bottom of the screem)
+            - attack (physical or word depending)
+            - magic (physical or word depending)
+            - Skill (physical or word depending)
+            - Item 
+            - Run
+        - HUD
+            - appear on top of the screen
+            - combat textbox
+                - small
+                - relay battle information
+                    - sense info
+                    - scene descriptions
+                - style
+                    - player names and hp/mp or will/cunning
+            - character textbox
+                - same textbox and protrait cards used in standard conversations
+        - UI for word battle (violet/grey color scheme)
+        - UI for Physical battle (blue color scheme)
+        - UI for romance battle (pink/red color scheme)
+    - Combat Contitions and style
+        - turn based
+            - initiative based on Keeness
+            - attack/magic/skill based on stat
+        - Spend xp on stat increases
+            - levels just track how many stat bonuses the character got
+            - make it a low gain system (like fft or DnD 2nd edition)
+        - win/lose conditions
+            -physical
+                - hp reaches zero (athletics)
+            - word 
+                - mental will reaches zero (confidence || resolution) + appearance
+        - stat to combat element mappings
+            - physical
+                - hp (athletics)
+                - physical ATK/DEF (athletics)
+                - magic points (academics)
+                - magic ATK (academics)
+                - magic DEF (focus/wisdom)
+                - skills (resolution)
+                - skill point (focus)
+                - escape (athletics)
+            - word 
+                - mental will (hp) (confidence || resolution) + appearance
+                - inspire (heal will) speech && confidence 
+                - insult (ATK) keeness && focus
+                - persuade (ATK) speech && appearance
+                - confusing banter (ATK) academics && wisdom
+                - annoy (ATK) speech && resolution
+                - mock (ATK) keeness && wisdom
+<<<<<<< HEAD
+                - reasonWith (ATK) wisdom && focus
+                - barter: keeness && resolution
+                - escape (ATK) keeness
+=======
+<<<<<<< HEAD
+                - resolve conflict (RES) wisdom && focus && keeness && resolution
+                - escape (RES) keeness
+=======
+                - reasonWith (ATK) wisdom && focus
+                - barter: keeness && resolution
+                - escape (ATK) keeness
+>>>>>>> c2a6a5d33802d56a637836c5fcc1c6e428a6467f
+>>>>>>> Phase01-Docs
+            - Romance Battle? (bonus feature: Not included in MVP)
+                - fortitude (HP) (confidence || resolution) + appearance * 2
+                - converse (ATK) weaker: speech && appearance && confidence
+                - flirt (ATK) stronger: speech && wisdom && keeness && confidence
+                - bold move (ATK) confidence && resolution && speech && appearance
+                - escape : there's no escaping here
+        - enemies may be strong or weak against an attack type
+        - battles aren't always negative
+        - combat spoils
+            - word combats only drop xp and possibly cards
+            - add Items
+            - don't add cards
+        - Skill to capture enemy to turn into cards at the card monolith
+            - a reason to fight around
+            - lower success rate 
+                - build up as player uses it
+            - work like a sense and steal 
+                - maybe two parts
+
+3. Inventory Management and game menus
+    - Splash screen
+        - New Game option: start new game obviously
+        - Load Game option: 
+            -load game screen: memory card like layout
+        - settings option
+            - settings screen
+                - display and audio options
+        - Quit Option
+    - Game Over screen
+        - Load Game option:
+            - same load game screen as splash screen
+        - To Main Menu option
+            - load splash screen
+    - tutorial screens
+        - if needed only
+    - Character Inventory and menus (outside of battle)
+        - FF7 style
+        - Items
+            - type icons followed by the item name then quantity
+            - item's description populates a text box in the items menu
+            - (circle) or B to backout
+            - selection and using Items
+                - items that cannot be selected are greyed out 
+                - select if Item is not greyed out
+                    - popup asking if player wants to use it or not. [y|n]
+                    - another menu popup on which player to use it on
+                        - move across diferent characters
+                        - select character
+                        - use it with sound effect
+                        - return to Items
+        - Equipment
+            - single player view at a time
+            - Select player to equip
+            - Equipment slots
+                - squares with Icons
+                - Armor slot (physical)
+                - Weapon slot (physical)
+                - outfit (bonus feature)
+                - Accessory 1
+            - Equipable Item list
+                - select equipment slot
+                - populate with equipment of that type that that character can use
+                    - select a piece of equipment to equip 
+                    - return to single player view
+            - change players with L1 and R1
+        - Skills/Magic
+            - list word skills, combat skills, and romance skills
+                - different screens perhaps
+            - move across the skill lists
+                - display description and information at bottom of the screen
+            - toggle characters with L1 and R1
+        - Character Stats
+            - display all stats and current values in them 
+                -scalar stats
+            - list all boolean attributes that the player has
+                - achievement like attributes that boost something in the game
+                - ex: Card Master, Soo Handsome, silk tongue, Iron Will
+                - move across stats
+                    - display description of each
+        - Contacts
+            - similar to social links in Persona
+                - Stardew valley layout with bars instead of hearts (sims style)
+                    -  +/- Friendship
+                    -  +/- Romance
+                - limited relationships with people
+                    - Sebastian, Benson, Bennett, and Parker (12 stars)
+                    - Romance girls (6 to 10 stars)
+                        - change them up
+                    - School friends (4 to 8 stars)
+                    - Card guys (2 to 6 stars)
+                    - Adults (1 to 4 stars)
+                    - can only maintain a few school friends and card guys at max level
+                        - having friends is time consuming
+                - move across friend list
+                    - display a short diescription of your relationship with them
+                    - add likes and don't likes (Bonus Feature: not in MVP)
+        - Config 
+            - settings screen
+        - Cards
+            - ff9 like card menu for full set
+            - deck menu
+                - build deck
+                - card spaces for each card in the deck
+                    - duplicates stack
+                    - shows cards stats
+                    - selected cards are marked as "Set Cards"
+                - build up to three decks
+            - move along the cards to select one
+                - show card detail image
+                - show cards attacks and stats
+                - show cards level and to next level (if they can level at all)
+                - can only play with two cards
+                - select cards
+                    - select which card from the stack
+                    - convert card to xp (delete card in process)
+                        - cannot delete card in deck
+                        - cannot delete cards in stack if there is only one
+                        - cannot delete cards marked as set cards
+                    - Mark Card as "set card"
+                        - means it is part of the set and is cannot be deleted
+                            or traded
+                        - can mark up to two cards of a single type like this
+        - Save/Load
+            - save opens a memory card like screen
+                - over write prompt
+                - are you sure prompt
+            - Load is same loading screen
+
+4. Card game
+    - build deck in menu, not in card game menu 
+    - Setup screen
+        - choose Deck
+        - make wager
+            - money, cards, 
+        - set play style
+            - first person to slay 10 monsters
+            - first person to slay 15 monsters
+            - first person to slay 20 monsters
+            - first person to slay 30 monsters
+        - start match
+    - battle screen 
+        - 3x3 or 4x4 play area
+        - bottom section for player's hand
+            - deck on left
+            - graveyard on right
+        - game play steps
+            - player draws a card
+            - play one skill point card
+                - get skill points in point bank 
+            - play one monster card
+                - cannot move or attack on it's first turn
+            - move any number of monsters
+                - default move limit is one space
+                    - in the arrow directions only
+            - attack use actions
+                - once per monster per turn
+                - in the arrow directions only
+                - abilities cost skill points
+                    - buy with skill bank
+                    - only have to buy it once (unless stated otherwise)
+            - discard hand down to max hand size (4 to 7 not sure yet)
+            - win if
+                - player runs out of monsters
+                - no one can do anything
+                    - player with the most monsters on the board wins
+                    - players with the most skill points win
+                - block a players play area
+                - defeat 10-30 monsters
+                    - must be in discard pile 
+                    - monsters returned to hand or play do not count
+                    - 20 monsters is the standard
+    - Victory screen
+        - display the Victory message
+        - add card xp
+            - some behind the scenes 
+            - some given to the player to add to any card they want to
+            - cards gain like fft (more exp if the enemy is using hier level cards)
+        - get wager if one was made
+        - "play again" message
+    - Lose screen
+        - display message
+        - pay wager
+        - lose small amount of xp
+            - 1/2 to 1/4 xp amount player would have gained
+
+5. DnD world 
+    - Fantastic Dungeons
+        - playin some F'n D
+    - mimics a terminal like text adventure game
+    - all ascii art
+    - cheesy DnD like story quests
+    - Available Classes
+        - Fighter - the tank 
+        - Mage - the damage++
+        - cleric - the healer
+        - rogue - you know what this is
+        - Barbarian - the damage
+    - Each player gets a character
+        - player picks which one they want
+        - NPCs pick what's left
+    - NPCs choose
+        - Parker: DM 
+        - Sebastian: Rogue or Mage 
+        - Benson: Barbarian or Mage
+        - Bennett: Cleric or Fighter
+    - simplified DnD
+        - much faster combat
+    - Add only basic elements for 
+        - story
+        - combat
+        - level gaining
+    - Bonus feature: not in MVP
+        - crafting
+        - spell crafting
+        - anything that is not combat or spell crafting
+    
+6. Skateboarding 
+    - multiple stages
+    - will take a lot of animations
+    - mini game mechanics
+        - slippery balancing bar 
+            - stardew fishing bar on it's side 
+            - the bar gets less slippery when player gains skateboard levels 
+            - restart slippery level when player moves to the next step
+            - very compicated button combo to do tricks 
+    - takes a long time to build up
+        - so long most people wont bother with it
+    - Skateboarding stages
+        - Standing on the board
+        - Push off slowly and wobbly
+        - Skateboard regular (Tony hawk when you are not doing any tricks) 
+        - Olley
+        - KickFlip
+    - once the player moves to the next move then the previous move is 
+        automatic
+    - use board as a means of travel once the player gets good enough
+    - move buttons to move on skate board
+    - X or A button to Ollie
+    - Square or X button to KickFlip
+    - circle to pick up skateboard
+    - R1 to Skateboard
+         
+
+7. Video Games (Bonus Feature: Not part of the MVP)
+    - Mario the Hedgehog: platformer
+    - Pokeboo I caught you: pokemon/Monster rancher like game
+    - Pyrite Eye: First Person Shooter 
+    - Double Toads: brawler game battle toads

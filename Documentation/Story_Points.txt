@@ -1,0 +1,392 @@
+Top: Life as the characters know it will end Fooly Cooly style story
+
+Topics:
+    going from less than nobody to the popular guy with the other boys
+
+Starts over the summer a few weeks before school.
+    - game vibe of becoming someone (respect from others)
+    - character worried about fitting in
+    - Starting 7th grade
+    - introduce game play at the house
+        - meet all of the characters of the house hold
+            - Mom, Dad, Sister
+        - explaination of game elements through dialogue
+        - pc is not interested in going to school for the semester
+		
+    - Meet Bennett for the first time
+        - Has a predefined relationship
+        - Unlock neighborhood to bennetts house
+        - introduce word combat with Brellee
+            - give Bennett hints on how to deal with his little sister, which
+              will intern work as a tutorial on word battling
+	
+        - sleep over at Bennett's house
+        - play video game (mini game)
+        - have some kind of strange encounter with Bennett's mom
+		
+        - go home at some point
+		- fill time with practicing some skill--tutorial on skill building
+		
+    - Mini adventure exploring the property
+	
+    - Meet Parker for the first time
+        - Has prior relationship with Parker
+        - Unlock neighborhood up to parker's house
+        - go to his house meet Mom and Dad
+            - akward meeting with Mom
+            - dad is a bit drunk
+        - room is very clean
+        - learn to play cards
+            - Parker teaches you how to play
+            - if player likes it, parker gives player 5 cards
+            - Parker talks about going to card shop on Saturdays, PC can 
+                get more cards there.
+            - sleep over
+			
+            - mom sends PC home early in the morning
+    - Meet David and Rhett outside of Bennett's house
+        - Parker and Bennett are there too
+        - talk and establish relationships
+        - easy word combat with Rhett and David
+        - tutorial on skateboard
+		
+    - first trip to card shop
+        - prototype sequence
+        - buy cards with allowance (super expensive)
+		
+    - some neighborhood adventures
+        - silly missions
+        - introduce something odd here
+            - make it very subtle
+        - card playing opertunities
+        - combat opertunities
+        - introduce shopping center
+		
+    - Card shop trip 
+        - free card play
+        - word combat
+        - buy cards or comics
+        - social opportunities
+        - gain cards
+		
+    - Short neighborhood adventures 
+        - subtle injection of strange world glitching
+        - friendship scene at the bayou
+            - talk about ninjas and video games
+
+School Starts (School part 1)
+    - continue vibe of pc trying to fit in
+    - meet a bunch of characters
+    - a lot of akward conversations
+    - meet up with Sebastian and Bensen
+        - shake kind of aquantance relationship to start
+        - spend most time with them
+        - hit it off quick
+    - establish enemy relationship with Meche
+        - easy word combat
+    - Last subtle glitch inserts
+    - trips to comic shop
+    - after school hangout
+        - dnd text mini game at Parkers house
+            - with Benson, Sebastian, and Bennett 
+            - create a character
+            - text adventure with ascii art
+        - chance to play cards with Parker
+
+School Part 2
+    - Switch from fit-in vibe to what was that! glitch
+    - heavy school time shinanagins 
+    - meet new characters
+    - solidify school characters personalities
+    - build social standings in the rough playground
+        - status changes through interactions
+        - free play interactions
+        - mini dialogue quests
+        - word combats
+    - come across a less subtle glitch then later on a glitch that just 
+        can't be ignored
+        - conversation sequence trying to figure out what's going on
+        - small detective mini quest
+    - out of school elements (optional)
+        - cards at PCs house with Sebastian, Parker, and Bennett
+            - teach Sebastian to play
+        - tournament at Card Shop
+            - cost money
+            - super hard to get first place
+            - win cards for 1st, 2nd, and 3rd place
+        - DnD at Parkers
+            - adventure continues
+        - Skateboard practice
+        - sister has sleep over with friend
+            - she's hot
+            - she is not amused by the PC
+
+School Part 3
+    - up the what the hell!? vibe
+    - lots of school dialogue scenes 
+        - PE, Class, Lunch, Library, Computer Lab, and Recess
+        - build up relationships
+        - can choose a crush optional and missable 
+    - a kid disappears and no one realizes it except the player
+        - everyone forgot about them except the player
+            - something sparks his memory
+                -empty desk or a glue ball
+        - player gets Sebastian and Benson to realize it too
+            - sarcastic talking scene to 
+        - find first portal to the other dimension
+            - Yummi Niki style transprotation
+                - characters talk about how they feel Weird
+                - characters are different
+                - contains monsters
+                    - spend exp from these monsters to craft cards
+                    - card creating monolith
+                        Sebastian makes a wish at some item in the magic plane
+                        joking saying that something like yeah, I don't care 
+                        about this thing unless it's handing out cards. Suddenly
+                        the monolith appears.  Once everyone figures out what the
+                        monolith does, Sebastian takes back his wish asking for
+                        it to produce endless hot women begging for sex 
+            - return from the first trip without going to a dungeon 
+    - out of school
+        - cards at Parkers
+        - DnD at Parkers
+        - skateboard
+            - word combat with Rhett if player has been practicing skateboarding
+                - gain skateboard friend if pc wins the battle        
+
+School Part 4
+    - build a connection with other world and strange happenings
+    - lots of dialogue scenes
+        - gain social standing with characters. depends on stats 
+        - talking to crush takes a lot of courage
+            - success takes a lot of high stats
+        - should start to have established which lesser characters are
+            more friendly with the PC 
+        - Should start to develope the PCs personality by there choices
+    - strange things start happening, like random people (not students)
+        hanging out on the playground (some of which look odd)
+        - no one seems to think it's out of the ordinary
+        - the group (PC, Sebastian, and Benson) notice a teacher is missing
+            her hand
+        - discover that it's linked to the portal
+            - portal is now available
+            - go to the dungeon and find the hand
+                - combat with enemies: standard
+                - can spend exp to make cards
+                - add some sort of stat increase mechanic here 
+            - location in the portal that points to water heater entrance
+                at PC's grandma's house
+                - Dialogue phrase to make this more apparent
+            - find hand
+        - group returns hand to teacher
+            - sneaks up and replaces hand
+            - teacher acts like the hand was always there
+        - long discussion on what the hell just happened
+            - bring up the obvious  glitch elements
+    - thanks giving break
+    -out of school
+        - cards at Parkers, Cards at Shop
+        - Optional DnD at Parkers
+        - see a glitch to be fixed
+            - inside out dog or something like that
+        - Parker and Bennett are oblivious to the glitches
+        - Sebastian and Benson sleep over 
+            - enter the dungeon 
+            - find an inside out sock on a stone table
+            - flip sock rightside-out 
+                - it is a dog graphics sock
+            - return to find the dog corrected
+            - another long conversation about the happenings
+                - add some points to what is causing this
+        Thanks givivng
+            - sister invites slut friend
+            - invite one friend to sleep
+                - outcome depends on the friend invited
+                - akward girl chasing
+                - Sebastian is all about the pussy
+                - Benson has conversation and chill
+                - Bennett wants to play video games
+                - Parker wants to play cards all night
+
+School Part 5
+    - weird stuff starts to intensify
+    - introduced to the Mighty Swordfish nemesis
+        - view some temple of the ancients type scene
+        - hypthisize on connections with little guidance
+    - more dialogue scenes with classmates
+    - must work towards crush to gain the confidence to get her
+    - more derelics hanging around the playground
+        - word battles
+    - outside of school
+        - cards with Parker and or Sebastian
+        - Card shop tournament
+        - optional DnD
+        - skateboarding
+        - jog around the neighborhood (player needs high focus and res)
+    - christmas break
+        - 2 quests in the other world
+            - meet a strange business man who serves the swordfish
+            - using forbidden swordfish magic to gain political power
+            - teleports group out of the dungeon
+            - long conversation about what's going on
+        - DnD with Parker x2
+            - one in the beginning and end of break
+        - Cards with parker, Sebastian, Benson, and Bennett
+        - Card shop tournament
+        - Skateboard
+        - christmas celebration
+            -sister, Mom, Dad
+        - new years eve
+            - inivte a friend similar to Thanks Giving
+
+School Part 6
+    - strangers are starting to attend Class
+    - can't go two steps without combat
+        - super annoying word combat
+            - game points out how annoying it is with dialogue
+                - I will waste your time and inflict status effects and 
+                    give you nothing after the battle! hahahaha
+                - dialogue filled with sub culture references
+    - info quest to figure out how to get rid of the weirdos
+        - points to a new dungeon quest
+    - dungeon quest
+        - learn about scheme to replace the president with a swordfish 
+        - loud mouth weirdos were summoned using swordfish magic 
+            - increase the swordfish voting base
+        - Need to figure out how to stop them
+            - some quest comes out of it
+        - long discussion abou thow politics are the worst most boring thing ever
+            -reference the young ones boring episode
+    - outside of school
+        - cards with Parker and or Sebastian
+        - Card shop tournament
+        - optional DnD
+        - skateboarding (Rhett perhaps)
+        - Jog around the neighborhood (player needs high focus and res)
+
+School Part 7
+    - more of the same
+    - add more weird stuff like people turning into blobs or something
+    - a few dialogue scenes
+    - earliest that pc can get girlfriend
+        - needed to unlock all romance scene
+    - figure out how to stop the them 
+        - requires a few quests
+        - one of which starts on this part
+        - stop them from summoning more
+    - outside of school
+        - cards with Parker and or Sebastian
+        - Card shop tournament
+        - optional DnD
+        - skateboarding (Rhett perhaps)
+        - Jog around the neighborhood (player needs high focus and res)
+        - dialogue scenes with non-school people
+        - weirdos around neighborhood
+    
+School Part 8
+    - more of the same
+    - heavier school dialogue scenes
+        - having romance from last iteration changes a lot of options
+    - Stacks of weirdos (in the kids play area)
+    - new quests x2 to try and stop this take over
+        - do some quest
+        - outside of school
+    Outside of school
+        - cards with Parker and or Sebastian
+        - Card shop tournament
+        - optional DnD
+        - skateboarding (Rhett perhaps)
+        - Jog around the neighborhood (player needs high focus and res)
+        - weirdos around neighborhood
+    
+School Part 9
+    - most regular characters replaced with poorly drawn blob things
+    - few dialogue scenes
+    - first adventure: dungeon
+        - make it through to find the players need a key
+        - key is the PE teacher's whistle (or something like that)
+        - conversation about what the key is and then how to get it
+    - second adventure: school
+        - get the key
+            - dialogue fueled mission filled with player's choices
+                - player must play to their strengths
+                - hair-brained scheme to get it
+    - third adventure: dungeon
+        - lots-o-battles
+        - find a group of professionals of all job types scheming
+            with a proper looking Professor
+        - kicks the crap out of the party
+            - they spill the beans on what, where, and how to win
+                - skunky beer from Parker's dad's collection
+    - Outside of school
+        - cards with Parker and or Sebastian
+        - Card shop tournament
+        - optional DnD
+        - skateboarding (Rhett perhaps)
+        - Jog around the neighborhood (player needs high focus and res)
+        - weirdos around neighborhood
+
+School Part 10
+    - finalize stories with school friends
+    - most weirdos are gone
+    - last chance to score a girlfriend
+    - long drawnout dungeon
+        - defeat the Professor
+            - if lose an alternate ending will happen
+            - get item that seals the other world
+        - final battle with the Crab
+            - everyone is worried about how hard this battle will be
+            - turns out to just be a Crab
+                - throw it in the water to win
+                - dialogue scene here
+    - Outside of school
+        - cards with Parker and or Sebastian
+        - Card shop tournament
+        - optional DnD
+        - skateboarding (Rhett perhaps)
+        - Jog around the neighborhood (player needs high focus and res)
+        - weirdos around neighborhood
+
+End of School and beginning of summer 
+    - Next year's school ending choice
+        - if the player completed a percentage (like 95%) of the school dialogue
+            scenes the PC's parents tell the pc that the money is tight but they
+            know how many friends that the pc has made and the will come up with 
+            tuition for next semester. 
+            - player is extremely happy if they have a girlfriend
+            - else just happy
+        else:
+            parents say that pc has to go to public school
+            - dialogue scene with sister about how it's worse that a maximum 
+                security prison
+            - player is very upset (especially if they have a girlfriend)
+    - President Election
+        - tv talks about candidates for next year's election
+        - if crab was defeated
+            - Dr. Narcisis vs Mr. Powerhungry Criminal
+            - throw in some anti liberty here
+                - the anouncer is practically wishing to mongle the criminals
+                    cock, he is so supportive and defends everything he says
+            - pc doesn't want to watch that garbage
+        - else 
+            - Crab vs Mr. PowerHungry Criminal
+            - anti liberty from Mr. Criminal
+                - announcer still loves Mr. Criminal
+            - player decides he likes the crab more then the real president
+        - ending sequence
+    - Endless summer:
+        - player can infinetly do out of school activities
+            - cards with Parker, Sebastian, and Card shop people
+            - Card shop tournament
+            - optional DnD
+            - skateboarding (Rhett perhaps)
+            - Jog around the neighborhood (player needs high focus and res)
+            
+
+
+
+
+
+
+
+

@@ -1,0 +1,336 @@
+
+Game about life as a kid during those akward 12yr - 14yr old age
+
+gameplay
+	- rpg style
+		- combat with word attacks
+			- enemies
+				- teachers
+				- kids (kids at school)
+				- adults (all over the place)
+				- teens (punks, hippies, goth kids, wiggers, black people, ska kid, grunge kids, 
+					new romantics, new age, skate punk, Hipster, gamers, japan fiends, Cutesters, jocks, preps, artists, hackers, wickens)
+				- battle with words that deal damage, heal, or status effects
+					- insult: deal damage
+					- stand ground: heal
+					- logic to death: status effect
+				- animations
+				-  HP, Magic, Skill point, ect...
+					- based on mental attributes 
+				- genric word battles do not use actual dialogue
+					- or maybe 10 possible short phrases like fart-knocker
+		- combat by playing card game
+			- collect 120 cards play mini game style
+		- physical combat based on athletics
+			- maybe swords
+			- in dungeons
+		- Level gaining
+			- no character levels only stat increase
+				- character level behind the scene to maxout stat gains from 
+					an activity
+			- gain exp
+				- constant threshold to gain a stat boost
+				- +1 in relavent stats (chose one from 3 or more)
+				- gain by doing certain tasks
+					- Word Combat, Physical Combat, Cards, Socializing,
+						academics, other features to be added after MVP
+		- Persona style character stats
+			- bravery or confidence: willing to take a chance
+			- speech: persausive, elloquence
+			- appearance: how cute you are (luck)
+			- keeness: Quick thinking, street smarts
+			- wisdom: hints on making good desicions
+			- athletics: how well you win at sports and physical combat
+			- academics: book smart
+			- focus: how long and often you can do something that you are not interested in
+			- resolution: how determind the player is
+			- social rank: based on game achievement.  How popular you are. Unlock game elements
+		- Story Progression based game
+			
+storyline
+	- anchor story with suburban america settings
+		- start in Summer
+		- moves into school year
+	- Horror elements perhaps
+	- What's the problem (ideas) Life as the charcters know it will end 
+		01. People are starting to transform into hideous monsters and no one can see it but you?
+		02. People are starting to become agressive?
+		03. reality is starting to blur into fantasy and you and your friends must stop it.
+			- slowly get information as you build relationships with people.
+				- elements change each game (like yahzee says) like passcodes and what not.
+				- info comes from all characters, main and secondary. Both at and out of school.
+		04. Portals to an alternate deminsion
+			- one at school in that carport area
+			- one at home in grandmas water heater closet outside
+			- one at Sebastian's house
+			- other dimensions hold keys to fix the problem in the current dimension
+		05. Learn about problems though dialogue 
+			- unlock quests and new locations in the other
+	- What's causing the problem
+	- How do we solve the problem
+
+Setting: (based on my childhood) (take artistic license on all art)
+	##The Neighborhood## - Conley Subdivision
+		- Main Characters Parent's House (must)
+			1. Based on my parents house before the church (old and gross)
+			2. Include my grandma's yard front and Back
+			3. Include the streets from ash to lucy
+			4. Include the bayou side in front of grandmas house
+		- Bayou side under the bridge (maybe)
+			1. corner where the boats always wreck
+		- The Wall (maybe)
+			1. Where Cory and I used to hangout
+		- Brocks House (must)
+			1. Inside rooms
+			2. Outside pool area
+		- Cory's House (must)
+			1. Inside Rooms 
+		- East Houma Elementary (maybe)
+			1. outside grounds
+		- Rec Center (maybe)
+			1. outside grounds
+		- Whole neighborhood (maybe)
+			1. outside only 
+	##The School##
+		- School Main Building
+			1. Include relavent classrooms on each floor
+			2. The stairwell
+			3. The hallways
+			4. The Bathrooms
+			5. Principal's office
+			6. Library
+			7. Cafateria
+			8. Gym
+		- Playgrounds
+			1. cement Playground with fountain
+			2. Dirt Playground
+	##Outside Houses##
+		- Scott's House
+			1. Inside and out
+		- Brandon's House
+			1. Inside and Out
+	##Shoping District##
+		- Mega Mart
+		- Dollar Store
+		- Gas Station
+		- Steve's Cards and Comics
+			1. inside and out.
+	##Dungeons##
+		- figure this out as needed
+
+characters
+	<= 12 year old
+		- Bennett: Butt-cheeks Brock (age 12)
+		- tyler: Brandon's little Brother (age 11)
+		- Brellee: Brocks sister Brandy (age 7)
+		- Gabe: Weird kid Brocks neighbor (age 12)
+		- Printess: Printiss who lived in that white house (age 10)
+	== 13 years old
+		- Sebastian: Scott trish
+		- Benson: Brandon
+		- Meche: Michael Meche
+		- Michael: Michael Williams
+		- Bryant: Bryant from sixth grade
+		- Dylan: Hunter Olsen from sixth grade
+		- Sam: black sam from St.Francis
+		- Paul: Paul Watson
+		- neutral boy 2: filler
+		- Isabella: stephanie from SF
+		- Aubrey: Lerin
+		- Alice: Christina Landry
+		- Lauren: Lauren Miller
+		- Ruby: nerdy card girl
+		- Peyton: Christina Williams
+		- Ellie: Elizabeth Rodrigas
+		- Chu: Cute Asian Girl
+		- neutral girl 2: filler
+	>= 14 years old
+		- Parker: Cory (age 14)
+		- Keith: Andrew Cox (age 14)
+		- Timmy: Timmy White (age 14)
+		- Rhett: Troy with the skates (age 15)
+		- David: T-Dave (age 16)
+		- Cody: dirty cody from the old school church days (age 15)
+		- Ian: Ian from my childhood (age 14)
+		- Nikki: Susans friend Nikki if that was her name? (age 15)
+		- Stephanie: sister (age 16)
+		- Michelle: (age 16) slut michelle
+		- Christine: (age 16) cassie from paul and cassie
+	Steves Cards and Comics
+		- Nicholas: Asshole nick (age 31)
+		- Aaron: Aaron (age 19)
+		- Mike: stupid asshole that played that green deck all the time (age 21)
+		- Tate: Weird guy I used my dragon deck against that one time (age 20)
+		- Trevor: Trevor from sicilys (age 17)
+		- Wes: Fat nerd guy who stole my cards (age 15)
+	Parents:
+		- Mom: Known as Mom
+		- Dad: Known as Dad
+		- Trudy: Sebstian's (scott's) Mom
+		- Alberto: Sebastian's (scott) dad
+		- Kathrine: Bennett's (brock's) Mom
+		- Weston: Bennett's (brock's) Dad
+		- Angie: Mrs. Kathy's annoying friend that only ever talked about Jonathan
+		- Jane: Parker's (cory's) mom
+		- Carrol: Parker's (cory's) Dad
+	Teachers:
+		- Ms. Hope: Resource teacher
+		- Mrs. Darcie Kotch: Ms. Adams
+		- Mrs. Gemma Abbott: Mrs. Blanchard
+		- Mrs. Racheal Oneal: Ms. Hebert
+		- Mrs. Kellen Scates: Ms. Rochelle
+		- Mrs. Theriot: Mrs. Theriot
+		- Mrs. Tanner: principal 
+			
+art style
+	- simple pixel 16 to 32 pixels
+	- limited color palatte
+		- 12 colors maybe (not including value shifts)
+	- detailed cartoon style pixel portraits
+		- expressions for main characters 
+			01 default
+			02 happy closed mouth 
+			03 happy open mouth, 
+			04 deep smile 
+			05 chuckle or Laughing 
+			06 annoyed 
+			07 eye roll 
+			08 angry 
+			09 RAGE!
+			10 fighting or determined 
+			11 shocked 
+			12 scared or worried
+			13 very scared or upset 
+			14 sick 
+			15 sleepy
+			16 worn out 
+			17 sad 
+			18 expressionless 
+			19 Sarcastic 1
+			20 Sarcastic 2 
+			21 Sarcastic 3
+		- Expressions for secondary characters
+			01 default
+			02 happy
+			03 laugh
+			04 angry 
+			05 scared
+			06 sad
+			07 fighting
+			08 crying (female), 
+			09 blush (female), 
+			10 romance (female)
+	- UI design is more important
+	
+	
+Prototype Outline:
+	Setting:
+		1. Location: Steve's Cards and Comics
+			- inside only (make it look Exactly like steve's)
+		2. Characters:
+			- Sebastian: Scott
+			- Parker: Cory
+			- Player Character
+			- Tate: Weird card guy
+			- Mike: asshole green deck guy
+	GamePlay:
+		1. Start by talking to Parker (no one else will be useful)
+			- Parker will talk about entering the tournament on Sat
+			- Sebastian will chime in and talk for a while
+				- 3 way conversation
+				- at least two player choices (options based on stats)
+		2. Fat face Mike will will butt in
+			- mini cut-scene animation here
+			- he will start talking shit mostly about Sebastian and Player
+			- four way heated conversation
+				- mike thinks these little bed pissers can count to 10 much 
+					less play cards 
+		3. Battle with Mike
+			- Main and Sebastian vs Mike
+				- Word Combat
+				- gain exp
+			- after winning, another four way conversation happens
+				- parker takes the neutral stance
+				- Sebastian defensive
+				- mike conceeds that you can play if you beat him
+			- Mike walks away and sits at the table
+			- Player can now challenge Mike to a card Game
+			- 3-way talk with Sebastian and Parker for another conversation
+				- talking about how rediculous that whole scene was
+					- Stupid Cory jokes in there
+		4. Play Cards with Mike
+			- Cut Scene with Mike showing off how awesome he is.
+			- Short 3-way dialogue with Mike and Sebastian
+			- Play cards
+				- full Game
+			- If win
+				- gain exp
+				- winner 4-way conversation
+			- If Lose 
+				- suffer some penlaty: loose stat point or lose exp
+				- 2-way conversation where mike laughs in your face
+		5. You can now exit the card shop
+			- Talk to Sebastian for a 2-way conversation about your victory
+				- he will be happy for you and say it's his turn next
+				- he will sit and have some animation with mike for a while
+			- You can talk to Tate
+				- challenge him to a game.
+				- socialize attempt (use once per duration)
+				- talk (multiple possible conversations for module testing purposes)
+			- Exit the shop to end the Prototype
+
+Card Game Idea Board:
+	##Idea 1: Monsters and skill points##
+		- Monster type cards
+			- free to play
+				- no casting cost
+			- have hp by default (Magic style)
+			- have a number of attacks
+				- attacks are gained by leveling
+				- attacks gain require skill points (pokemon style)
+				- attacks can be constant bonuses
+			- Monster type and level determine which attacks they can get
+			- Monster cards have up to eight directional Arrows
+				- Monsters can move in these directions
+				- attack in these directions
+				- more direction arrows as a possible level up reward
+		- Action type cards 
+			- sorcery type cards 
+			- gain level to increase the effect
+			- use magic type Skill Points 
+		- Skill Point type cards 
+			- like pokemon energy 
+			- powers an attack 
+				- player chooses which attack to power
+				- extra skill points bleed into the other attacks if one exists 
+			- Physical Skill Points
+			- Magic Skill Points
+		- Gameplay
+			- 5 by 5 square 
+			- place one monster a turn 
+				- only in the 5 squares closest to the player
+			- move one monster a turn  
+				- direction based on arrows
+				- distance based on move speed (default 1 space)
+				- can only attack where thier arrows point
+			- place one skill point card a turn
+				- on a side area
+				- place any number of these skill point cards on any number of monsters
+			- play any number of Action cards
+				- on your turn only
+			- Can only have 3 of the same card in a deck
+			- can only have 5 cards in hand
+			- Win/Lose conditions 
+				- player cannot draw a card
+				- player has no monster on the Board
+				- all five play spaces that a player has is under enemy control
+				- both players have no cards in their hands
+					- player with most monsters on the board wins
+					- Draw if even	
+					
+					
+
+	
+	
+	
+	

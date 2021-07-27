@@ -1,0 +1,31 @@
+Game progression is linear like ff7/fft/or any jrpg
+
+Scene Ordering Ideas for the main story
+	- The entire storyline should be broken up into blocks 
+	- Each block should be broken into checkpoints (like skyrim quests)
+		- Block: 1, sections 1,2,3,4,5...
+	- Each block needs dialogue, a setting, setting boundaries (where the player can walk), control boundaries (what the player can do)
+	- Every moment in the game should be contained in one of these blocks.
+		- enforce what is available based on the main story, even when 
+	- Unlock sequentially: once a block is complete, the next block opens
+	- Need an object to track which part of the game the player is currently on
+	
+Side Quests
+	- separate block of storyline that has no impact on the main storyline boundaries
+	- unlock side quests like an event 
+	
+Event elements
+	- events in the game are some task that needs to be saved. some examples are:
+		- Opening treasure chests
+		- starting quests
+		- unlocking doors or new area boundaries
+		- tracking character conversations
+		- any action that needs to have its state maintained through the duration of the game.
+
+Elements that need to be saved
+	- Character states and info: levels, stats, ...
+	- main story storyline block
+	- Side quest blocks
+	- global events
+	
+	
